@@ -1,0 +1,5 @@
+This is the hello world program in C language
+#include<stdio.h>
+{
+print("this is a hello....world/n")
+}
